@@ -1,4 +1,4 @@
-User API Automation Tests
+# User API Automation Tests
 
 This project contains automated API tests for user management endpoints using Rest-Assured and TestNG. It covers basic CRUD operations such as creating a user and validating the user retrieval.
 
